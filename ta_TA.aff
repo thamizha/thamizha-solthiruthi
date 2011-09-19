@@ -110,7 +110,7 @@ SFX B   ம்     த்தால்        ம்
 SFX B   0     ணால்        ண்
 SFX B   0     யால்/N        ை
 SFX B   டு     ட்டால்        டு
-SFX B   ு     ால்/N        ு
+SFX B   ு     ால்/NQT        ு
 
 SFX C Y 9
 SFX C   ்     ுக்கு/imNnQRrSuT        ்
@@ -132,15 +132,15 @@ SFX D   ்     ில்/iNnPQTUu        ்
 SFX D   ம்     த்தில்/NPU        ம்
 SFX D   ம்     மில்/NPU        ாம்
 SFX D   ல்     லில்        ல்
-SFX D   0     யில்/U        ி
-SFX D   0     யில்/iUu        ை
+SFX D   0     யில்/UQ        ி
+SFX D   0     யில்/iNQPTUu        ை
 SFX D   டு     ட்டில்        டு
 SFX D   பு     ப்பில்        பு
 SFX D   பு     பில்        ப்பு
 SFX D   று     ற்றில்        று
 SFX D   0     வில்        ழு
-SFX D   ு     ில்        ு
-SFX D   0     வில்        ா
+SFX D   ு     ில்/NU        ு
+SFX D   0     வில்/NU        ா
 
 SFX E Y 6
 SFX E   ்     து/Q        ்
@@ -184,7 +184,7 @@ SFX H   கு     கின்AN        கு
 SFX H   0     யின்        ி
 SFX H   0     யின்/B        ை
 SFX H   0     வின்        ா
-SFX H   து     தின்/B        தது
+SFX H   ு     ின்/AB        ு
 
 SFX I Y 5
 SFX I   ்     ுடைய        ்
@@ -234,13 +234,13 @@ SFX N   0     யும்        கே
 SFX N   0     வும்        க
 
 SFX n Y 7
-SFX n   0     ோ        ்
+SFX n   ்     ோ        ்
 SFX n   0     யோ        ை
 SFX n   0     வோ        ா
 SFX n   கு     கோ        கு
 SFX n   ள்     ளோ        ள்
 SFX n   0     வோ        க
-SFX n   0     ோ/NT        ு
+SFX n   ு     ோ/NT        ு
 
 SFX O N 1
 SFX O   ழ்     ழே        ழ்
@@ -293,9 +293,10 @@ SFX T   0    தான்         யே
 SFX T   0    தான்         ளே
 SFX T   0    த்தான்        காக
 
-SFX t N 2
+SFX t N 3
 SFX t   ்    ாகும்         ்
 SFX t   0    யாகும்         தி
+SFX t   ு    ாகும்         ு
 
 SFX U Y 3
 SFX U   ல்    லிருந்து         ல்
