@@ -119,7 +119,7 @@ SFX C   ல்     லுக்கு        ல்
 SFX C   0     க்கு/NR        ி
 SFX C   0     க்கு/mNn        ை
 SFX C   0     வுக்கு/NQ        ா
-SFX C   டு     ட்டுக்கு        டு
+SFX C   டு     ட்டுக்கு/Nm        டு
 SFX C   0     க்கு/N        ு
 SFX C   து     தற்கு/NR        து
 
@@ -209,9 +209,10 @@ SFX J   0     யுடன்/N        ி
 SFX J   0     வுடன்        ா
 SFX J   0     டன்/N        ு
 
-SFX j Y 4
+SFX j Y 5
 SFX j   ்     ோடு        ்
 SFX j   ம்     த்தோடு        ம்
+SFX j   டு     ட்டோடு        டு
 SFX j   0     யோடு        ி
 SFX j   0     யோடு/N        ை
 
@@ -227,7 +228,7 @@ SFX m   ்     ுள்        ்
 SFX m   0     ள்        கு
 
 SFX N Y 7
-SFX N   ்     ும்        ்
+SFX N   ்     ும்/r        ்
 SFX N   0     ம்        ு
 SFX N   0     யும்/S        ி
 SFX N   0     யும்        ை
