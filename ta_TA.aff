@@ -157,8 +157,9 @@ SFX F   ல்     லின்கண்        ல்
 SFX F   0     யின்கண்        தை
 SFX F   ள்     ளின்கண்        ள்
 
-SFX f Y 3
+SFX f Y 4
 SFX f   ்     ிடம்/DiNQUu        ்
+SFX f   ம்     த்திடம்/DNQUu        ம்
 SFX f   0     விடம்        ா
 SFX f   0     யிடம்        ை
 
@@ -201,7 +202,7 @@ SFX i   0     ள்ள        கு
 
 SFX J Y 6
 SFX J   ்     ுடன்/QS        ்
-SFX J   ம்     த்துடன்        ம்
+SFX J   ம்     த்துடன்/S        ம்
 SFX J   டு     ட்டுடன்        டு
 SFX J   0     யுடன்/S        ை
 SFX J   0     வுடன்        ா
@@ -227,7 +228,7 @@ SFX m   0     ள்        கு
 SFX N Y 7
 SFX N   ்     ும்        ்
 SFX N   0     ம்        ு
-SFX N   0     யும்        ி
+SFX N   0     யும்/S        ி
 SFX N   0     யும்        ை
 SFX N   0     வும்        ா
 SFX N   0     யும்        கே
