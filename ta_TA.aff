@@ -3,9 +3,11 @@
 SET UTF-8
 TRY ்ுதமனகறடபரநலிஎாளஒவஇஙணேசவயேோஅூழொீஙஞஉஆஸஷஜஏஊஓஈஹௌஐஃஔ
 
-REP 44
+REP 46
 REP	ன்ர ன்ற
 REP ன்ட ண்ட
+REP ன்ட் ண்ட்
+REP ன்டு ண்டு
 REP ரை றை
 REP ரம் றம்
 REP றம் ரம்
@@ -200,7 +202,7 @@ SFX i   0     ள்ள        கு
 
 SFX J Y 7
 SFX J   ்     ுடன்/QS        ்
-SFX J   ம்     த்துடன்/PS        ம்
+SFX J   ம்     த்துடன்/S        ம்
 SFX J   டு     ட்டுடன்        டு
 SFX J   0     யுடன்/S        ை
 SFX J   0     யுடன்/N        ி
@@ -214,10 +216,11 @@ SFX j   டு     ட்டோடு        டு
 SFX j   0     யோடு        ி
 SFX j   0     யோடு/N        ை
 
-SFX M Y 5
+SFX M Y 7
 SFX M   ல்     ற்கள்/ABCDEFGHIJKL        ல்
 SFX M   ம்     ங்கள்/ABCDEFGHIJKL        ம்
-SFX M   0     கள்/ABCDEFGHIJKL        டு
+SFX M   0     கள்/ABCDEFGHIJKL         ு
+SFX M   0     கள்/ABCDEFGHIJKLRTS          ி
 SFX M   0     கள்/ABCDEFGHIJKL        ை
 SFX M   0     க்கள்/ABCDEFGHIJKL        ா
 
@@ -234,9 +237,10 @@ SFX N   0     வும்        ா
 SFX N   0     யும்        கே
 SFX N   0     வும்        க
 
-SFX n Y 7
+SFX n Y 8
 SFX n   ்     ோ        ்
 SFX n   0     யோ        ை
+SFX n   0     யோ        ி
 SFX n   0     வோ        ா
 SFX n   கு     கோ        கு
 SFX n   ள்     ளோ        ள்
@@ -250,7 +254,7 @@ SFX o Y 1
 SFX o   0     யாம்        டை
 
 SFX P Y 1
-SFX P   ்     ேயே        ்
+SFX P   ல்     லேயே        ல்
 
 SFX Q Y 9
 SFX Q   ்     ே/T        ்
