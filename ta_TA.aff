@@ -208,7 +208,7 @@ SFX J   0     வுடன்        ா
 SFX J   0     டன்/N        ு
 
 SFX j Y 5
-SFX j   ்     ோடு        ்
+SFX j   ்     ோடு/N        ்
 SFX j   ம்     த்தோடு        ம்
 SFX j   டு     ட்டோடு        டு
 SFX j   0     யோடு        ி
@@ -264,7 +264,7 @@ SFX Q   ு     ே        ு
 SFX Q   0     வே        மா
 
 SFX R N 6
-SFX R   ்    ாக/NnQ         ்
+SFX R   ்    ாக/NnQT         ்
 SFX R   ல்    லாக/N         ல்
 SFX R   0    யாக         ி
 SFX R   0    யாக/GNnQ         ை
@@ -292,7 +292,7 @@ SFX T   0    தான்/Q         ே
 SFX T   0    தான்/GQ         ை
 SFX T   0    தான்         யே
 SFX T   0    தான்         ளே
-SFX T   0    த்தான்        காக
+SFX T   0    த்தான்        ாக
 
 SFX t N 4
 SFX t   ்    ாகும்         ்
