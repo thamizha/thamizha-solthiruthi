@@ -200,7 +200,7 @@ SFX i   0     ள்ள        கு
 
 SFX J Y 7
 SFX J   ்     ுடன்/QS        ்
-SFX J   ம்     த்துடன்/S        ம்
+SFX J   ம்     த்துடன்/PS        ம்
 SFX J   டு     ட்டுடன்        டு
 SFX J   0     யுடன்/S        ை
 SFX J   0     யுடன்/N        ி
@@ -250,7 +250,7 @@ SFX o Y 1
 SFX o   0     யாம்        டை
 
 SFX P Y 1
-SFX P   ல்     லேயே        ல்
+SFX P   ்     ேயே        ்
 
 SFX Q Y 9
 SFX Q   ்     ே/T        ்
