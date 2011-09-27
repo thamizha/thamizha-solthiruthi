@@ -216,10 +216,11 @@ SFX j   டு     ட்டோடு        டு
 SFX j   0     யோடு        ி
 SFX j   0     யோடு/N        ை
 
-SFX M Y 5
+SFX M Y 7
 SFX M   ல்     ற்கள்/ABCDEFGHIJKL        ல்
 SFX M   ம்     ங்கள்/ABCDEFGHIJKL        ம்
-SFX M   0     கள்/ABCDEFGHIJKL        டு
+SFX M   0     கள்/ABCDEFGHIJKL         ு
+SFX M   0     கள்/ABCDEFGHIJKLRTS          ி
 SFX M   0     கள்/ABCDEFGHIJKL        ை
 SFX M   0     க்கள்/ABCDEFGHIJKL        ா
 
