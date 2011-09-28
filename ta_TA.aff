@@ -195,7 +195,7 @@ SFX I Y 5
 SFX I   ்     ுடைய        ்
 SFX I   ம்     த்துடைய        ம்
 SFX I   டு     ட்டுடைய        டு
-SFX I   0     டைய        வு
+SFX I   0     டைய        ு
 SFX I   0     யுடைய        ை
 
 SFX i Y 4
@@ -213,14 +213,15 @@ SFX J   0     யுடன்/N        ி
 SFX J   0     வுடன்        ா
 SFX J   0     டன்/N        ு
 
-SFX j Y 5
-SFX j   ்     ோடு        ்
+SFX j Y 6
+SFX j   ்     ோடு/N        ்
 SFX j   ம்     த்தோடு        ம்
 SFX j   டு     ட்டோடு        டு
+SFX j   0     ோடு        ு
 SFX j   0     யோடு        ி
 SFX j   0     யோடு/N        ை
 
-SFX M Y 7
+SFX M Y 6
 SFX M   ல்     ற்கள்/ABCDEFGHIJKL        ல்
 SFX M   ம்     ங்கள்/ABCDEFGHIJKL        ம்
 SFX M   0     கள்/ABCDEFGHIJKL         ு
@@ -249,7 +250,7 @@ SFX n   0     வோ        ா
 SFX n   கு     கோ        கு
 SFX n   ள்     ளோ        ள்
 SFX n   0     வோ        க
-SFX n   ு     ோ/NT        ு
+SFX n   ு     ோ/T        ு
 
 SFX O N 1
 SFX O   ழ்     ழே        ழ்
@@ -274,7 +275,7 @@ SFX Q   ு     ே        ு
 SFX Q   0     வே        மா
 
 SFX R N 6
-SFX R   ்    ாக/NnQ         ்
+SFX R   ்    ாக/NnQT         ்
 SFX R   ல்    லாக/N         ல்
 SFX R   0    யாக         ி
 SFX R   0    யாக/GNnQ         ை
@@ -302,7 +303,7 @@ SFX T   0    தான்/Q         ே
 SFX T   0    தான்/GQ         ை
 SFX T   0    தான்         யே
 SFX T   0    தான்         ளே
-SFX T   0    த்தான்        காக
+SFX T   0    த்தான்        ாக
 
 SFX t N 4
 SFX t   ்    ாகும்         ்
