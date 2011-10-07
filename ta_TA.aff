@@ -116,7 +116,7 @@ SFX B   ு     ால்/NQT        ு
 
 SFX C Y 9
 SFX C   ்     ுக்கு/imNnQRrSuT        ்
-SFX C   ம்     த்துக்கு        ம்
+SFX C   ம்     த்துக்கு/m        ம்
 SFX C   ல்     லுக்கு        ல்
 SFX C   0     க்கு/NR        ி
 SFX C   0     க்கு/mNn        ை
@@ -144,11 +144,12 @@ SFX D   0     வில்        ழு
 SFX D   ு     ில்/NU        ு
 SFX D   0     வில்/NU        ா
 
-SFX E Y 7
+SFX E Y 8
 SFX E   ்     து/Q        ்
 SFX E   ம்     த்தினது        ம்
 SFX E   ல்     லினது        ல்
 SFX E   டு     ட்டினது        டு
+SFX E   0     யது        ி
 SFX E   0     யது        தை
 SFX E   0     வது        ா
 SFX E   0     வது        ு
@@ -226,7 +227,7 @@ SFX M   ல்     ற்கள்/ABCDEFGHIJKL        ல்
 SFX M   ம்     ங்கள்/ABCDEFGHIJKL        ம்
 SFX M   0     கள்/ABCDEFGHIJKL         ு
 SFX M   0     கள்/ABCDEFfGHIJjKLRTS          ி
-SFX M   0     கள்/ABCDEFGHIJjKL        ை
+SFX M   0     கள்/ABCDEFGHIJjKLN        ை
 SFX M   0     க்கள்/ABCDEFGHIJKL        ா
 
 SFX m Y 2
