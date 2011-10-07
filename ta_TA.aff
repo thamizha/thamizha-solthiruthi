@@ -222,11 +222,12 @@ SFX j   0     ோடு        ு
 SFX j   0     யோடு        ி
 SFX j   0     யோடு/N        ை
 
-SFX M Y 6
+SFX M Y 7
 SFX M   ல்     ற்கள்/ABCDEFGHIJKL        ல்
 SFX M   ம்     ங்கள்/ABCDEFGHIJKL        ம்
 SFX M   0     கள்/ABCDEFGHIJKL         ு
 SFX M   0     கள்/ABCDEFfGHIJjKLRTS          ி
+SFX M   0     கள்          ்
 SFX M   0     கள்/ABCDEFGHIJjKLN        ை
 SFX M   0     க்கள்/ABCDEFGHIJKL        ா
 
