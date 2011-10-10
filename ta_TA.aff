@@ -130,7 +130,7 @@ SFX c   0     விற்கு/N        ா
 SFX c   ம்     த்திற்கு/NR        ம்
 
 SFX D Y 13
-SFX D   ்     ில்/iNnPQTUu        ்
+SFX D   ்     ில்/iNnPQTUuv        ்
 SFX D   ம்     த்தில்/NPU        ம்
 SFX D   ம்     மில்/NPU        ாம்
 SFX D   ல்     லில்        ல்
@@ -190,7 +190,7 @@ SFX H   கு     கின்AN        கு
 SFX H   0     யின்        ி
 SFX H   0     யின்/B        ை
 SFX H   0     வின்        ா
-SFX H   ு     ின்/AB        ு
+SFX H   ு     ின்/ABm        ு
 
 SFX I Y 5
 SFX I   ்     ுடைய        ்
@@ -325,6 +325,7 @@ SFX u   கு    கிருந்த         கு
 SFX V Y 1
 SFX V   0    யிருந்தால்         றை
 
-SFX v Y 2
+SFX v Y 3
 SFX v   0    யில்லை         றை
 SFX v   ம்    மில்லை         ம்
+SFX u   0   ல்லை         ்
