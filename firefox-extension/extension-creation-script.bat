@@ -23,6 +23,8 @@ sed '1d' new_ta_TA.dic >> new2_ta_TA.dic
 #
 mv new2_ta_TA.dic firefox-extension/thamizha_solthiruthi/dictionaries/
 cp ta_TA.aff firefox-extension/thamizha_solthiruthi/dictionaries/
+cp README firefox-extension/thamizha_solthiruthi/
+cp Changelog firefox-extension/thamizha_solthiruthi/
 
 #
 # remove the temporary file new_ta_TA.dic
