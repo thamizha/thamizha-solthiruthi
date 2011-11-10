@@ -327,7 +327,9 @@ SFX u   கு    கிருந்த         கு
 SFX V Y 1
 SFX V   0    யிருந்தால்         றை
 
-SFX v Y 3
+SFX v Y 4
 SFX v   0    யில்லை         றை
+SFX v   0    யில்லை         வே
 SFX v   ம்    மில்லை         ம்
-SFX u   0   ல்லை         ்
+SFX v   0   ல்லை         ்
+SFX v   0    ில்லை         ு
