@@ -1,4 +1,4 @@
-var err = initInstall("ThamiZha! Solthiruthi(Tamil spellchecker)", "mugunth@thamizha.com", "0.5");
+var err = initInstall("ThamiZha! Solthiruthi(Tamil spellchecker)", "mugunth@thamizha.com", "0.7");
 if (err != SUCCESS)
     cancelInstall();
 
