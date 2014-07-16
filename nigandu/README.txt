@@ -1,0 +1,1 @@
+﻿This is a test thesaurus that is being developed to be used in LibreOffice, OpenOffice and, possibly, Firefox. Volunteers to take this initiative forward are invited to join.
